@@ -1,4 +1,4 @@
-# Programacao-em-IA-Generativa🚀 Curso de Programação em IA Generativa
+# Programacao-em-IA-Generativa🚀
 Bem-vindo ao repositório do curso de Programação em Inteligência Artificial Generativa.
 Este material foi criado para ensinar desde os fundamentos de IA até aplicações modernas com modelos generativos, visão computacional, NLP e modelos personalizados.
 
